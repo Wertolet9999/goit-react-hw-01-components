@@ -1,0 +1,33 @@
+.statistics {
+    margin: 30px auto 0;
+}
+
+.title {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    margin: 20px auto 10px;
+}
+
+.statList {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    min-width: 75px;
+    border: 1px solid grey;
+}
+
+.label {
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.percentage {
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
