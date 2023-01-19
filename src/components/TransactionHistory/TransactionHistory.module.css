@@ -1,9 +1,11 @@
 .transactionHistory {
-    margin: 30px auto 0;
-    width: 450px;
+    margin: 0 auto ;
+    width: 600px;
     border: 1px solid grey;
     border-collapse: collapse;
     text-align: center;
+    background-color: #d9e1ea;
+    box-shadow: -4px 4px 10px 0 rgb(0 0 0 / 60%);
 }
 
 td {
@@ -13,8 +15,9 @@ td {
 }
 
 th {
-    background-color: lightblue;
-    border: 1px solid white;
+    background-color: #7c9ff7;
+    color: white;
+    /* border: 1px solid white; */
     padding: 5px;
 
 }
